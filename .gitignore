@@ -1,0 +1,15 @@
+# Office temporary files
+~$*
+*.tmp
+
+# Build/render scratch
+_doc_build_assets/
+*_render/
+contact-*.png
+page-*.png
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
